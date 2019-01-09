@@ -1,0 +1,21 @@
+/* FONTS */
+
+.font-courier {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+/* FLEX */
+
+.row-container-card {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 10px;
+
+}
